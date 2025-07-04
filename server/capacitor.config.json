@@ -1,0 +1,5 @@
+{
+  "appId": "visitor.api",
+  "appName": "visitor-api",
+  "webDir": "dist"
+}
